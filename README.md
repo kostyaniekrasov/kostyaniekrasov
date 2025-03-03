@@ -54,15 +54,41 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kostyaniekrasov&show_icons=true&theme=jolly" />
+      <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=kostyaniekrasov&show_icons=true&title_color=DC0072&hide_title=true&rank_icon=percentile&hide=stars&theme=omni" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaniekrasov&theme=jolly" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaniekrasov&layout=compact&title_color=DC0072&theme=omni" />
     </a>
   </div>
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kostyaniekrasov&theme=jolly&background=transparent" width="100%"/>
 </p>
+
+<h2 align="center">👨‍💻 Portfolio 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kostyaniekrasov/next-cartoons" title="Cartoons"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=next-cartoons&theme=omni"></a>
+  <a align="right" href="https://github.com/kostyaniekrasov/react_apple-catalog" title="Apple Catalog"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=react_apple-catalog&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kostyaniekrasov/react-katvr" title="KATVR"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=react-katvr&theme=omni"></a>
+  <a align="right" href="https://github.com/kostyaniekrasov/react-todo-app" title="Todo app"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=react-todo-app&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+   <a align="left" href="https://github.com/kostyaniekrasov/eco_cosmetics-landing" title="Eco cosmetics"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=eco_cosmetics-landing&theme=omni"></a>
+   <a align="right" href="https://github.com/kostyaniekrasov/2048-game" title="2048-game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=2048-game&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+   <a align="left" href="https://github.com/kostyaniekrasov/bike-landing" title="bike-landing"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=bike-landing&theme=omni"></a>
+   <a align="right" href="https://github.com/kostyaniekrasov/dia-landing" title="dia-landing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=dia-landing&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+   <a align="left" href="https://github.com/kostyaniekrasov/museum-landing" title="museum-landing"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=museum-landing&theme=omni"></a>
+   <a align="right" href="https://github.com/kostyaniekrasov/museum_v2-landing" title="museum_v2-landing"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=museum_v2-landing&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 
