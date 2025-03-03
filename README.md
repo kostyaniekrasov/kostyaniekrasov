@@ -51,20 +51,31 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
+
+
+
 <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=kostyaniekrasov&show_icons=true&title_color=DC0072&hide_title=true&rank_icon=percentile&hide=stars&theme=omni" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaniekrasov&layout=compact&title_color=DC0072&theme=omni" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=kostyaniekrasov&show_icons=true&title_color=DC0072&hide_title=true&rank_icon=percentile&hide=stars&theme=omni" />
     </a>
   </div>
   <br>
 </p>
 
+
+
 <h2 align="center">👨‍💻 Portfolio 👨‍💻</h2>
 <br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/kostyaniekrasov/dnd-kanban-board" title="dnd-kanban-board"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=dnd-kanban-board&theme=omni"></a>
+  <a align="right" href="https://github.com/kostyaniekrasov/ticket-generator" title="ticket-generator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=ticket-generator&theme=omni"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kostyaniekrasov/next-cartoons" title="Cartoons"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=next-cartoons&theme=omni"></a>
   <a align="right" href="https://github.com/kostyaniekrasov/react_apple-catalog" title="Apple Catalog"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kostyaniekrasov&repo=react_apple-catalog&theme=omni"></a>
